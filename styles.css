@@ -1,0 +1,33 @@
+body{
+    color: rgb(255, 255, 255);
+    font-family: "New Amsterdam", sans-serif;
+    background: black;
+    margin: 0px;
+
+}
+
+header {
+    font-size: 32px;
+    color: rgb(15, 159, 248);
+    border-bottom: 2px solid rgb(15, 159, 248);
+    padding: 20px;
+
+}
+
+section {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    background: rgb(6, 65, 150);
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+
+h1{
+    font-size: 30px;
+}
