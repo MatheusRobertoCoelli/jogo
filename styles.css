@@ -14,7 +14,7 @@ header {
 
 }
 
-section {
+.chamada {
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -30,4 +30,23 @@ section {
 
 h1{
     font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-vídeos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
